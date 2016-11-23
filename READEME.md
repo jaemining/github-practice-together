@@ -1,10 +1,11 @@
 fork 떠서 작업해야 한다니?! 어렵군
 
 
-ㅐ
+
 organization의 github-practice-together 레파지토리를 자신의 github으로 fork !!!
 
 1) 작업은 각자의 로컬에서 하고 push한다. = fork 뜬 레파지토리에 push한다.
+
 origin : 자신꺼
 upstream : 팀꺼
 
