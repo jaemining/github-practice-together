@@ -11,4 +11,7 @@ upstream : 팀꺼
 
 2) origin -> upstream 으로 pull request를 날린다. code review 한 뒤 merge 한다.
 
+3) read me 재 변경
+
+
 
