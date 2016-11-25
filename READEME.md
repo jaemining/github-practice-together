@@ -15,5 +15,7 @@ upstream : 팀꺼
 
 4) develop에서   변  경  
 
+5) change readme from Ted_Local 
+
 
 
