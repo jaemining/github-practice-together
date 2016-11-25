@@ -18,4 +18,4 @@ upstream : 팀꺼
 5) change readme from Ted_Local 
 
 
-
+6)  ㅠ_ㅠ 어떡해
